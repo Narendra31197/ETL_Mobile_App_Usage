@@ -1,0 +1,22 @@
+,app_name,Publisher,total_minutes,total_devices,Avg_time_spend_per_device,Rank (user based),Rank (Duration based)
+0,Amazon Mobile (Mobile App),Amazon Sites,98950.8177,828,119.50581847826086,7.0,10.0
+1,Amazon Music with Prime Music (Mobile App),Amazon Sites,18611.3592,126,147.70919999999998,16.0,16.0
+2,Facebook (Mobile App),Facebook,4624547.256,1910,2421.228929842932,2.0,1.0
+3,Facebook Messenger (Mobile App),Facebook,2670211.1646,1912,1396.553956380753,1.0,2.0
+4,Google Play (Mobile App),Google Sites,235396.4571,1844,127.6553454989154,3.0,7.0
+5,Google Search (Mobile App),Google Sites,604126.971,1747,345.808226101889,5.0,4.0
+6,GroupMe (Mobile App),Microsoft Sites,12062.358,92,131.11258695652174,17.0,17.0
+7,Instagram (Mobile App),Facebook,508182.255,1092,465.3683653846154,6.0,5.0
+8,Kindle (Mobile App),Amazon Sites,44492.2632,129,344.9012651162791,15.0,13.0
+9,Microsoft Word (Mobile App),Microsoft Sites,1804.761,36,50.13225,19.0,19.0
+10,Netflix (Mobile App),Netflix Inc.,198277.443,433,457.9155727482679,10.0,8.0
+11,Outlook (Mobile App),Microsoft Sites,41296.689,211,195.71890521327015,13.0,14.0
+12,Pinterest (Mobile App),Pinterest,112853.034,533,211.73177110694184,9.0,9.0
+13,Sam's Club (Mobile App),Wal-Mart,100.16999999999999,2,50.084999999999994,21.0,21.0
+14,Sam's Club Scan & Go (Mobile App),Wal-Mart,297.4104,7,42.487199999999994,20.0,20.0
+15,Snapchat (Mobile App),"Snapchat, Inc",296267.8194,823,359.9851997569866,8.0,6.0
+16,Tumblr (Mobile App),Oath,80677.6362,150,537.850908,14.0,12.0
+17,Walmart (Mobile App),Wal-Mart,21275.7489,301,70.68355116279069,12.0,15.0
+18,Yahoo Mail (Mobile App),Oath,98311.752,396,248.26199999999997,11.0,11.0
+19,Yahoo Newsroom (Mobile App),Oath,5947.7166,45,132.17148,18.0,18.0
+20,YouTube (Mobile App),Google Sites,911750.6286,1754,519.8122169897377,4.0,3.0
